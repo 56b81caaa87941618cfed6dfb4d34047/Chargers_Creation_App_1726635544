@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a simple green button with text 'Bells'\", \"checked\": true}, {\"feature\": \"Add a simple pink button with text 'Bells'\", \"checked\": false}, {\"feature\": \"Include hover effects for buttons\", \"checked\": false}, {\"feature\": \"Make buttons rounded corners\", \"checked\": true}, {\"feature\": \"Implement button animations on click\", \"checked\": false}], \"input_token_count\": 279, \"output_token_count\": 95, \"time_taken\": \"0:00:01.199401\"}",
+        "message_id": "guest18092024050524",
+        "timestamp": "18092024050535",
+        "component_file_name": "simple_cta_component_1726635546",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific shade of green and pink do you have in mind for the buttons?\", \"option1\": \"I prefer pastel shades.\", \"option2\": \"I want vibrant, bold colors.\"}, {\"question 2\": \"Do you want the button size to be standard, or do you have a specific size in mind?\", \"option1\": \"I want it to be standard size.\", \"option2\": \"I have a specific size in mind.\"}], \"input_token_count\": 325, \"output_token_count\": 105, \"time_taken\": \"0:00:01.928969\"}",
         "message_id": "guest18092024050524",
