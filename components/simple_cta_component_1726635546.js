@@ -24,8 +24,12 @@ INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a 
                     </a>
                     <a id="genuine-button" href="#" class="flex-1 text-white bg-pink-500 hover:bg-pink-600 focus:ring-4 focus:ring-pink-300 font-medium rounded-lg text-sm px-5 py-2.5 ml-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl">
                         Genuine
+                        Genuine
                     </a>
-            </div>
+                    <a id="bells-button" href="#" class="flex-1 text-white bg-gradient-to-r from-green-500 to-pink-500 hover:from-green-600 hover:to-pink-600 focus:ring-4 focus:ring-green-300 font-medium rounded-lg text-sm px-5 py-2.5 ml-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl">
+                        Bells
+                    </a>
+                </div>
         </div>
     </section>
 </template>
