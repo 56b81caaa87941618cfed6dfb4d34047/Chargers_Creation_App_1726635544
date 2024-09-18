@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a simple Pink button with text 'Genuine'\", \"checked\": true}, {\"feature\": \"Add hover effects for the button\", \"checked\": false}, {\"feature\": \"Include a tooltip that explains the button function\", \"checked\": false}, {\"feature\": \"Add a loading animation when the button is clicked\", \"checked\": false}, {\"feature\": \"Make the button responsive for different screen sizes\", \"checked\": true}], \"input_token_count\": 247, \"output_token_count\": 102, \"time_taken\": \"0:00:01.053120\"}",
+        "message_id": "guest18092024050021",
+        "timestamp": "18092024050030",
+        "component_file_name": "simple_cta_component_1726635546",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_qna",
         "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like this Pink button to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What should happen when the Genuine button is clicked?\", \"option1\": \"Navigate to another page\", \"option2\": \"Trigger a pop-up message\"}], \"input_token_count\": 293, \"output_token_count\": 89, \"time_taken\": \"0:00:01.282312\"}",
         "message_id": "guest18092024050021",
