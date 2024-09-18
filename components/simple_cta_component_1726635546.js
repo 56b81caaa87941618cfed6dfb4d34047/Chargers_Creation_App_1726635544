@@ -20,8 +20,11 @@ INSTRUCTION: Summary: This component contains a h2 heading title for the CTA, a 
                 <div id="cta-button-container" class="flex">
                     <a id="cta-button" href="#" class="flex-1 text-white bg-purple-700 hover:bg-purple-800 focus:ring-4 focus:ring-purple-300 font-medium rounded-lg text-sm px-5 py-2.5 mr-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl">
                         Bolt Up Now!
+                        Bolt Up Now!
                     </a>
-                </div>
+                    <a id="genuine-button" href="#" class="flex-1 text-white bg-pink-500 hover:bg-pink-600 focus:ring-4 focus:ring-pink-300 font-medium rounded-lg text-sm px-5 py-2.5 ml-2 mb-2 transition duration-300 ease-in-out transform hover:scale-105 hover:shadow-xl">
+                        Genuine
+                    </a>
             </div>
         </div>
     </section>
