@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific shade of green and pink do you have in mind for the buttons?\", \"option1\": \"I prefer pastel shades.\", \"option2\": \"I want vibrant, bold colors.\"}, {\"question 2\": \"Do you want the button size to be standard, or do you have a specific size in mind?\", \"option1\": \"I want it to be standard size.\", \"option2\": \"I have a specific size in mind.\"}], \"input_token_count\": 325, \"output_token_count\": 105, \"time_taken\": \"0:00:01.928969\"}",
+        "timestamp": "18092024050532",
+        "message_id": "guest18092024050524"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I\u2019ll add a green and pink button with \"Bells.\"",
         "timestamp": "18092024050527",
