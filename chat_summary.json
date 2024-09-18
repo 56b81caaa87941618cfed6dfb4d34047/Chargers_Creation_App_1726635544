@@ -1,5 +1,11 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like this Pink button to be placed in the app?\", \"option1\": \"At the top of the screen\", \"option2\": \"At the bottom of the screen\"}, {\"question 2\": \"What should happen when the Genuine button is clicked?\", \"option1\": \"Navigate to another page\", \"option2\": \"Trigger a pop-up message\"}], \"input_token_count\": 293, \"output_token_count\": 89, \"time_taken\": \"0:00:01.282312\"}",
+        "timestamp": "18092024050027",
+        "message_id": "guest18092024050021"
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I\u2019m working on adding a pink button labeled Genuine.",
         "timestamp": "18092024050023",
